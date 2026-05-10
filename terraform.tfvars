@@ -5,6 +5,6 @@ ssh_security_group_name          = "cmtr-yhotz312-ssh-sg"
 public_http_security_group_name  = "cmtr-yhotz312-public-http-sg"
 private_http_security_group_name = "cmtr-yhotz312-private-http-sg"
 platform_public_ip               = "18.153.146.156"
-allowed_ip_range                 = ["18.153.146.156/32", "188.163.44.193"]
+allowed_ip_range                 = ["18.153.146.156/32", "188.163.44.193/32"]
 public_instance_eni_id           = "eni-0cf4d6c17fb34a6ce"
 private_instance_eni_id          = "eni-0dae26c22e5c9948a"
